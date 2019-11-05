@@ -26,7 +26,7 @@
 24,25,China,30069.0,CHN
 25,26,Colombia,479.0,COL
 26,27,Congo,1.0,COG
-27,28,"Congo, The Democratic Republic of the",3.0,
+27,28,"Congo, The Democratic Republic of the",3.0,COD
 28,29,Cook Islands,2.0,COK
 29,30,Costa Rica,78.0,CRI
 30,31,Cote d’Ivoire,1.0,CIV
@@ -182,7 +182,7 @@
 180,181,Solomon Islands,,SLB
 181,182,Brunei Darussalam,,BRN
 182,183,Cambodia,,KHM
-183,184,Democratic Republic of the Congo,,COD
+183,184,Democratic Republic of the Congo,3,COD
 184,185,Burundi,,BDI
 185,186,Afghanistan,,AFG
 186,187,Bhutan,,BTN
