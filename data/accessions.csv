@@ -76,8 +76,8 @@
 74,75,Jordan,4.0,JOR
 75,76,Kazakhstan,233.0,KAZ
 76,77,Kenya,82.0,KEN
-77,78,"Korea, Democratic People's Republic of",25.0,
-78,79,"Korea, Republic of",4618.0,
+77,78,"Korea, Democratic People's Republic of",25.0,PRK
+78,79,"Korea, Republic of",4618.0,KOR
 79,80,Kosovo,6.0,
 80,81,Kuwait,3.0,KWT
 81,82,Kyrgyzstan,13.0,KGZ
@@ -128,7 +128,7 @@
 126,127,Qatar,8.0,QAT
 127,128,Reunion Island,3.0,
 128,129,Romania,3491.0,ROU
-129,130,Russian Fed.,44276.0,
+129,130,Russian Fed.,44276.0,RUS
 130,131,Sao Tome and Principe,1.0,STP
 131,132,Saudi Arabia,10.0,SAU
 132,133,Senegal,2.0,SEN
@@ -200,10 +200,10 @@
 198,199,Guinea,,GIN
 199,200,Iran (Islamic Republic of),,IRN
 200,201,Cote d'Ivoire,,CIV
-201,202,Korea,,PRK
+201,202,Korea,25,PRK
 202,203,Kiribati,,KIR
-203,204,Republic of Korea,,KOR
-204,205,Lao People's Democratic Republic,,LAO
+203,204,Republic of Korea,4622,KOR
+204,205,Lao People's Democratic Republic,20.0,LAO
 205,206,Slovakia,,SVK
 206,207,Libyan Arab Jamahiriya,,LBY
 207,208,The former Yugoslav Republic of Macedonia,,MKD
@@ -235,7 +235,7 @@
 233,234,Guinea-Bissau,,GNB
 234,235,Reunion,,REU
 235,236,Republic of Moldova,,MDA
-236,237,Russia,,RUS
+236,237,Russia,44316,RUS
 237,238,Rwanda,,RWA
 238,239,Saint Kitts and Nevis,,KNA
 239,240,Somalia,,SOM
