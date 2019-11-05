@@ -15,7 +15,7 @@
 13,14,Belize,1.0,BLZ
 14,15,Benin,1.0,BEN
 15,16,Bolivia,25.0,BOL
-16,17,Bosnia & Herzegovina,2713.0,
+16,17,Bosnia & Herzegovina,2713.0,BIH
 17,18,Botswana,4.0,BWA
 18,19,Brazil,7809.0,BRA
 19,20,Bulgaria,1213.0,BGR
@@ -147,7 +147,7 @@
 145,146,Swaziland,1.0,SWZ
 146,147,Sweden,5471.0,SWE
 147,148,Switzerland,24846.0,CHE
-148,149,Syria,2.0,
+148,149,Syria,2.0,SYR
 149,150,Taiwan,676.0,TWN
 150,151,Tajikistan,65.0,TJK
 151,152,Tanzania,78.0,
@@ -166,11 +166,11 @@
 164,165,United States,303951.0,USA
 165,166,Uruguay,910.0,URY
 166,167,Uzbekistan,145.0,UZB
-167,168,Vatican,86.0,
+167,168,Vatican,86.0,VAT
 168,169,Venezuela,488.0,VEN
-169,170,Vietnam,195.0,
+169,170,Vietnam,195.0,VNM
 170,171,"Virgin Islands, US",1.0,
-171,172,Zaire,6.0,
+171,172,Zaire,6.0,ZAR
 172,173,Zambia,5.0,ZMB
 173,174,Zimbabwe,12.0,ZWE
 174,175,Antigua and Barbuda,,ATG
@@ -248,7 +248,7 @@
 246,247,United Republic of Tanzania,,TZA
 247,248,Saint Vincent and the Grenadines,,VCT
 248,249,British Virgin Islands,,VGB
-249,250,Viet Nam,,VNM
+249,250,Viet Nam,195,VNM
 250,251,United States Virgin Islands,,VIR
 251,252,Wallis and Futuna Islands,,WLF
 252,253,Samoa,,WSM
@@ -261,7 +261,7 @@
 259,260,Saint Helena,,SHN
 260,261,San Marino,,SMR
 261,262,Western Sahara,,ESH
-262,263,Holy See (Vatican City),,VAT
+262,263,Holy See (Vatican City),86,VAT
 263,264,Svalbard,,SJM
 264,265,Saint Martin,,MAF
 265,266,Saint Barthelemy,,BLM
